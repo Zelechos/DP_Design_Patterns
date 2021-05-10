@@ -1,5 +1,5 @@
 # Patrones de Diseño
-=================================================================================
+---------------------------------------------------------------------------------
 ![](https://yosoydani.com/wp-content/uploads/2017/11/unnamed-file-1.jpg)
 ## Qué es SOLID
 ----------------------------------------------------------------------------------
@@ -23,8 +23,8 @@
 
 *Una clase debe tener una única razón para ser cambiada.*
 
-### No es cierto que un elevado numero de clases pequeñas (o métodos pequeños)
-### sea mas difícil de entender. Siempre todo ese código estará ahí.
+#### No es cierto que un elevado numero de clases pequeñas (o métodos pequeños)
+#### sea mas difícil de entender. Siempre todo ese código estará ahí.
 
-## Lenguajes Ejemplos
->Java [Mira el Ejemplo Aqui](http://localhost/)
+## Lenguajes Donde se Realizon Ejemplos
+>Java [Codigo Aqui](https://github.com/Zelechos/DP_Design_Patterns/tree/master/Java/SOLID/Single_Responsibility_Principle/src)
