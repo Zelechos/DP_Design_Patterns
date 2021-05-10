@@ -27,4 +27,4 @@
 #### sea mas difícil de entender. Siempre todo ese código estará ahí.
 
 ## Lenguajes Donde se Realizon Ejemplos
->Java [Codigo Aqui](https://github.com/Zelechos/DP_Design_Patterns/tree/master/Java/SOLID/Single_Responsibility_Principle/src)
+>Java [Codigo Aqui](https://github.com/Zelechos/DP_Design_Patterns/tree/master/SOLID/Java/Single_Responsibility_Principle/src/Exercise_0)
