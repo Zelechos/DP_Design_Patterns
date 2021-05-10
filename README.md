@@ -15,7 +15,7 @@
 - I: se refiere al Principio de Segregación de Interfaces (Interface Segregation Principle), que dice que se han de utilizar interfaces con propósito específicos, o sea que tengan responsabilidades únicas y que se piensen bien y no se hagan interfaces grandes.
 - D: hace referencia al Principio de Inversión de la Tendencia (Dependency Inversion Principle), que para conseguirlo se hace uso de la inyección de dependencias.
 
-## Single Responsibility o Principio de Responsabilidad Unica
+## Single Responsibility Principle o Principio de Responsabilidad Unica
 ---------------------------------------------------------------------------------- 
 ![](https://i1.wp.com/www.devtec.com/wp-content/uploads/2013/04/SRP.jpg?resize=584%2C438)
 - Este principio indica que cada clase deberia tener una unica responsabilidad
