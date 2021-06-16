@@ -5,16 +5,17 @@
 package Exercise_0;
 
 /*
-    Vamos a simular una base de dator con un Array
+    Vamos a simular una base de datos con un Array
 */
 
 public class DB {
     
     static Coche [] Autos;
-    static int Spaces = 0;
+    static int Spaces = 1;
+    
+    //Hacemos los metodos estatico para hacelerar la demostracion del ejemplo
     
     public static void More(){
-        Spaces += 1;
         Autos = new Coche[Spaces];
     }
     
@@ -22,8 +23,13 @@ public class DB {
         return Autos.length;
     }
     
+    public static Coche[] Autos(int numero){
+        Autos = new Coche[numero];
+        return Autos;
+    }
     
     public static void Mostrar(){
+        
         for (int Iterador = 0; Iterador < Autos.length; Iterador++) {
                 System.out.println("Coche "+(Iterador+1)+" :");
                 System.out.println("-----------------------------------------------------");
@@ -31,7 +37,6 @@ public class DB {
                 System.out.println("Modelo : "+ Autos[Iterador].getModelo());
                 System.out.println("Precio : "+ Autos[Iterador].getPrecio());
                 System.out.println("-----------------------------------------------------");
-            
         }
     }
     
