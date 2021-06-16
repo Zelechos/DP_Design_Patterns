@@ -25,5 +25,5 @@
 
 #### No es cierto que un elevado numero de clases pequeñas (o métodos pequeños) sea mas difícil de entender. Siempre todo ese código estará ahí.
 
-## Lenguajes Donde se Realizon Ejemplos
->Java [Codigo Aqui](https://github.com/Zelechos/DP_Design_Patterns/tree/master/SOLID/Java/Single_Responsibility_Principle/src/Exercise_0)
+## Lenguajes con ejemplos disponibles para estudiar
+>Java [Principio de Responsabilidad Unica](https://github.com/Zelechos/DP_Design_Patterns/tree/master/SOLID/Java/Single_Responsibility_Principle)
