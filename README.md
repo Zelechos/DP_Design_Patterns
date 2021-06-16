@@ -3,9 +3,9 @@
 ![](https://yosoydani.com/wp-content/uploads/2017/11/unnamed-file-1.jpg)
 ## Qué es SOLID
 ----------------------------------------------------------------------------------
-### SOLID se compone de una serie de principios y de buenas prácticas que se deberían tener como base antes de proponer una arquitectura de software para el desarrollo de nuestras aplicaciones.
+#### SOLID se compone de una serie de principios y de buenas prácticas que se deberían tener como base antes de proponer una arquitectura de software para el desarrollo de nuestras aplicaciones.
 
-### Los principios SOLID nos permiten administrar la mayoría de problemas de diseño de software, y si seguimos los mismos, vamos a conseguir desarrollar un código más limpio, más mantenible, más escalable a futuro y menos propenso a errores.
+#### Los principios SOLID nos permiten administrar la mayoría de problemas de diseño de software, y si seguimos los mismos, vamos a conseguir desarrollar un código más limpio, más mantenible, más escalable a futuro y menos propenso a errores.
 
 *SOLID es un acrónimo, y cada una de las letras que lo componen tiene un significado:*
 
@@ -23,8 +23,7 @@
 
 *Una clase debe tener una única razón para ser cambiada.*
 
-#### No es cierto que un elevado numero de clases pequeñas (o métodos pequeños)
-#### sea mas difícil de entender. Siempre todo ese código estará ahí.
+#### No es cierto que un elevado numero de clases pequeñas (o métodos pequeños) sea mas difícil de entender. Siempre todo ese código estará ahí.
 
 ## Lenguajes Donde se Realizon Ejemplos
 >Java [Codigo Aqui](https://github.com/Zelechos/DP_Design_Patterns/tree/master/SOLID/Java/Single_Responsibility_Principle/src/Exercise_0)
