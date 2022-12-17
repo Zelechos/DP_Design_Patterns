@@ -36,5 +36,3 @@ _Una clase debe tener una única razón para ser cambiada._
 ## Lenguajes con ejemplos disponibles para estudiar
 
 > Java [Principio de Responsabilidad Unica](https://github.com/Zelechos/DP_Design_Patterns/tree/master/SOLID/Java/Single_Responsibility_Principle)
-
-change
