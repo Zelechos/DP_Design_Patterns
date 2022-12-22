@@ -4,7 +4,7 @@ public class HtmlButton implements Button {
 
     @Override
     public void render() {
-        System.out.print("<button>Test Button</button>");
+        System.out.println("<button>Test Button</button>");
         onClick();
     }
 

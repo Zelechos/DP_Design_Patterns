@@ -16,7 +16,7 @@ public class WindowsButton implements Button {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         JLabel label = new JLabel("Hello World");
         label.setOpaque(true);
-        label.setBackground(new Color(235, 233, 126));
+        label.setBackground(new Color(29, 91, 223));
         label.setFont(new Font("Dialog", Font.BOLD, 44));
         label.setHorizontalAlignment(SwingConstants.CENTER);
         panel.setLayout(new FlowLayout(FlowLayout.CENTER));
