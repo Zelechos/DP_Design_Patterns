@@ -12,7 +12,5 @@ public class Main {
         Record record1 = Record.getInstance("actual");
         System.out.println(record1.getLog()); // link
 
-
     }
-
 }
