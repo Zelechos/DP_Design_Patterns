@@ -7,6 +7,7 @@ public class Record {
     public String log;
 
     private Record(String log) {
+        this.log = log;
     }
 
     public static Record getInstance(String log) {
@@ -16,11 +17,11 @@ public class Record {
         return instance;
     }
 
-    public void setLog(String log) {
-        this.log = log;
+    public String getLog() {
+        return this.log;
     }
 
-    public String getLog(){
-        return this.log;
+    public void setLog(String log) {
+        this.log = log;
     }
 }
