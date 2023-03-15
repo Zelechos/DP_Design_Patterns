@@ -1,4 +1,4 @@
-package example;
+package exercises.exercise_001.src;
 
 public class Record {
 
